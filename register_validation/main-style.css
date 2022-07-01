@@ -1,0 +1,11 @@
+a{
+	cursor: pointer;
+} 
+.nav-top-navigation{
+	margin: 1rem;
+	width: auto;
+}
+.nav-side{
+	display: block;
+	border-radius: 100vmax;
+}
